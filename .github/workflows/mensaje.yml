@@ -1,4 +1,4 @@
-name: mensaje
+name: mensaje abierto
 on:
   issues:
     types: opened
