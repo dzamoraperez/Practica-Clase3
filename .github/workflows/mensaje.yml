@@ -1,8 +1,8 @@
 name: mensaje
 on:
   issues:
-  types: opened
-  jobs:
+    types: opened
+jobs:
   AlAbrir:
     runs-on: ubuntu-latest
     steps:
