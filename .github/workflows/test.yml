@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create GitHub Issue
-        uses: dzamoraperez/create-issue-action@V1
+        uses: dzamoraperez/Practica-clase3 create-issue-action@V1
         with:
           title: "Push asociado"
