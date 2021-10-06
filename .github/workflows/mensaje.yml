@@ -2,7 +2,7 @@ name: mensaje
 on:
   issues:
   types: opened
-    jobs:
+  jobs:
   AlAbrir:
     runs-on: ubuntu-latest
     steps:
