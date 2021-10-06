@@ -1,6 +1,6 @@
 name: mensaje
 on:
-	issues:
+  issues:
 		types: opened
 jobs:
 	AlAbrir:
